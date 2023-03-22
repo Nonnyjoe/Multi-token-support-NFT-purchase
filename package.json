@@ -1,0 +1,11 @@
+{
+  "name": "MultiTokenSupport",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "ethers": "^5.6.9"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "idogwu chinonso <idogwuchinonso1@gmail.com>",
+  "license": "MIT"
+}
